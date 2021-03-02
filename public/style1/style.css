@@ -1,4 +1,12 @@
 body {
+    width: 1200px;
+    Background: rgb(241, 241, 241);
+    max-width: 95%;
+    margin: auto;
+}
 
-    Background: red;
+header {
+    width: 1200px;
+    height: 150px;
+    background: rgb(124, 124, 124);
 }
