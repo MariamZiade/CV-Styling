@@ -32,6 +32,9 @@ h4 {
     color: rgb(206, 38, 38);
 }
 
+a {
+    color: white;
+}
 #about {
     display: inline-block;
     width: 500px;
@@ -84,6 +87,7 @@ dt {
 .contacts {
     height: 150px;
     line-height: 100%;
+    color: white;
 }
 
 .contact-type {
